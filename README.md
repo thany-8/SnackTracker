@@ -18,6 +18,4 @@ Flask application to track daily snacks for students.
 - SQLite
 - HTML/CSS
 
-  #Author
-
-  Tania Tatis
+  
