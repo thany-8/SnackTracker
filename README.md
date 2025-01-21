@@ -1,4 +1,4 @@
-# Snack Tracker
+# Snack Tracker 
 
 A simple Flask application to track daily snacks for students.
 
@@ -13,7 +13,7 @@ A simple Flask application to track daily snacks for students.
    git clone https://github.com/tu-usuario/SnackTracker.git# SnackTracker
 Flask application to track daily snacks for students.
 
-# Technologies Used
+## Technologies Used
 - Flask
 - SQLite
 - HTML/CSS
